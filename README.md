@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-xu&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-xu&layout=donut&langs_count=10)
 
 ![](https://komarev.com/ghpvc/?username=gabriel-xu)
 
